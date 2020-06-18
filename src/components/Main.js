@@ -47,7 +47,7 @@ class Main extends Component {
                             <li>{rajya.deaths}</li>
                 
                     </ul>
-                    
+                   
                     
                  ))} 
                 
